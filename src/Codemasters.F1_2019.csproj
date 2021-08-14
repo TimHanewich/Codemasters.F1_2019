@@ -17,6 +17,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="TimHanewich.Toolkit" Version="3.1.1" />
     <PackageReference Include="TimHanewichToolkit" Version="2.1.0" />
   </ItemGroup>
 
